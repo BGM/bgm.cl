@@ -3,7 +3,7 @@ layout: post
 title: "Tricks of The Game Programming Gurus - Capítulo 2"
 description: "Un recorrido por los ejemplos prácticos presentados en el capítulo 2 del libro Tricks of The Game Programming Gurus."
 image: "https://bgm.cl/assets/img/posts/tricks-of-the-game-programming-gurus-chapter-2/cover.png"
-discussion: "https://github.com/BGMP/bgm.cl/discussions/11"
+discussion: "https://github.com/BGM/bgm.cl/discussions/11"
 ---
 ¡Hola a todos, ha pasado mucho tiempo desde la última vez que publiqué algo por aquí! ¡Espero que estén bien y estén disfrutando de un buen 2025!
 
